@@ -21,7 +21,13 @@ cómo hacerlo.
 > ¿En qué consiste el código ético o los principios de la ciencia libre (*open science*)?
 
 ### Respuesta
-
+> Es la práctica de la ciencia de forma que otros puedan colaborar y contribuir, donde los datos de investigación, 
+> las notas de laboratorio y otros procesos de investigación están disponibles de manera gratuita, con licencias que
+> permiten la reutilización, redistribución y reproducción de la investigación,sus datos y métodos subyacentes. se refiere
+>  a un mayor rigor, responsabilidad y reproducibilidad para la investigación. Se basa en los principios de inclusión, 
+>  imparcialidad, equidad y distribución, y en última instancia busca cambiar la forma en que se realiza la investigación, 
+>  quién participa y cómo se valora. Su objetivo es hacer que la investigación sea más abierta a la participación, 
+>  revisión, refutación, mejora y reutilización para que el mundo se beneficie.
 
 ## Pregunta 3
 
@@ -29,8 +35,7 @@ cómo hacerlo.
 > libre?
 
 ### Respuesta
-
-Responde aquí con no más de 6 lineas de texto.
+Existen 8; Jitsi, Zulip, Mattermost, Cyn.in, Kolab, NextCloud, Group office, GitLab
 
 ## Pregunta 4
 
@@ -38,7 +43,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Si, https://github.com/search?q=Netflix&type=repositories
 
 ## Pregunta 5
 
@@ -47,15 +52,17 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+AlphaFold es un programa de inteligencia artificial (IA) desarrollado por DeepMind de Alphabet/Google que realiza predicciones de 
+la estructura de las proteínas. No, no se usarlo
 
 ## Pregunta 6
 
-> ¿Se puede patentar un software?
+¿Se puede patentar un software?
 
 ### Respuesta
-
-Responde aquí con no más de 6 lineas de texto.
+> No es posible patentar un software. Para eso, debería existir una invención implementada en un ordenador que tenga un efecto 
+> técnico adicional y que, gracias a ello, sea posible generar un cambio físico en nuestro entorno. solamente se pueden proteger 
+> mediante el Registro Público del Derecho de Autor; en él se registran programas, documentación y bases 
 
 
 
