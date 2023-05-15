@@ -13,7 +13,8 @@ cómo hacerlo.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+> Es una licencia que permite el uso de software libre,  se originó en el Instituto Tecnológico de Massachusetts (MIT) 
+> originandose a finales de  la decada de 1980.
 
 ## Pregunta 2
 
@@ -21,7 +22,6 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
 
 ## Pregunta 3
 
